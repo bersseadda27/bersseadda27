@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bersseadda
+- 🌱 I’m currently learning CS
+- 📫 How to reach me
